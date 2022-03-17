@@ -6,7 +6,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@yathindra-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://yathindra.medium.com/)](https://yathindra.medium.com/)
 
 ### Some of the Tools & Technologies I Have Used
-
+<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <img align="left" alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left" alt="Next.Js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img align="left" alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
