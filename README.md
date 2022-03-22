@@ -33,3 +33,5 @@
 ### 📈 My GitHub Statistics
 
 [![Yathindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=yathindrakodithuwakku)](https://github.com/yathindrakodithuwakku/github-readme-stats)
+
+![yathindra's snake gif](https://github.com/yathindrakodithuwakku/yathindrakodithuwakku/blob/output/github-contribution-grid-snake.svg)
