@@ -26,6 +26,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Secure your Next.JS Application with Asgardeo and Next-Auth](https://medium.com/@yathindrarawya/secure-your-next-js-application-with-asgardeo-and-next-auth-4c6ec1b551ea)
+- [Performance optimization techniques we are using in Asgardeo — Part 01](https://medium.com/identity-beyond-borders/performance-optimization-techniques-we-are-using-in-asgardeo-part-01-fa436327c618)
+-[Performance optimization techniques we are using in Asgardeo — Part 02](https://medium.com/identity-beyond-borders/performance-optimization-techniques-we-are-using-in-asgardeo-part-02-d2eedacc5f3e)
 <!-- BLOG-POST-LIST:END -->
 
 <p>Read more blog posts <a href="https://yathindra.medium.com/">here</a>.</p>
